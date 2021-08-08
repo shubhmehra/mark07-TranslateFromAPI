@@ -20,7 +20,6 @@
   background-size: cover;
   background-position: center;
 }
-/* Navigation */
 .nav {
   padding: 1rem;
   border-bottom-left-radius: 1rem;
@@ -32,7 +31,6 @@
   text-align: center;
 }
 
-/* containers */
 .container {
   padding-left: 1rem;
   padding-right: 1rem;
@@ -42,7 +40,6 @@
   max-width: 600px;
   margin: auto;
 }
-/*  input*/
 textarea {
   border: 1px solid black;
   height: 15vh;
@@ -54,7 +51,6 @@ textarea {
   background-color: white;
 }
 
-/* button */
 button {
   margin-left: 1rem;
   background-color: var(--secondary-color);
@@ -79,7 +75,6 @@ button {
   color: aliceblue;
 }
 
-/* Output */
 #output {
   border: 1px solid black;
   height: 15vh;
